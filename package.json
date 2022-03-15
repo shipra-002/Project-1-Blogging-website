@@ -1,0 +1,29 @@
+{
+  "name": "project-1---blogging-webside",
+  "version": "1.0.0",
+  "description": "Repository for backend cohort - Thorium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shariqrahman/Project-1---Blogging-Webside.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shariqrahman/Project-1---Blogging-Webside/issues"
+  },
+  "homepage": "https://github.com/shariqrahman/Project-1---Blogging-Webside#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.6",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
