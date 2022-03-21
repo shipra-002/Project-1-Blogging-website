@@ -25,7 +25,8 @@ const  authorSchema = new mongoose.Schema ( {
     },
     password: {
         type: String,
-        required: true
+        required: true,
+        minlength:[3,"minimum 3 letter"]
     },
  }, {timestamps: true})
 
